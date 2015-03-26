@@ -1,0 +1,1 @@
+Govorilka_cp.exe %1

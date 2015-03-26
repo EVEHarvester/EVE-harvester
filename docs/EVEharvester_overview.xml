@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+	<eveOverview>
+		<globalSettings>
+			<useSmallColorTags value="None"/>
+			<applyOnlyToShips value="None"/>
+			<hideCorpTicker value="None"/>
+			<overviewBroadcastsToTop value="None"/>
+			<columns>
+				<column id="ICON"/>
+				<column id="DISTANCE"/>
+				<column id="NAME"/>
+				<column id="TYPE"/>
+			</columns>
+		</globalSettings>
+		<profile name="default">
+			<groups>
+				<group id="10"/>
+			</groups>
+			<filteredStates/>
+			<ewarFilters/>
+		</profile>
+		<profile name="asteroids">
+			<groups>
+				<group id="450"/>
+				<group id="451"/>
+				<group id="452"/>
+				<group id="453"/>
+				<group id="467"/>
+				<group id="454"/>
+				<group id="455"/>
+				<group id="465"/>
+				<group id="456"/>
+				<group id="457"/>
+				<group id="468"/>
+				<group id="469"/>
+				<group id="458"/>
+				<group id="459"/>
+				<group id="460"/>
+				<group id="461"/>
+				<group id="462"/>
+			</groups>
+			<filteredStates/>
+			<ewarFilters/>
+		</profile>
+		<profile name="cargo">
+			<groups>
+				<group id="12"/>
+				<group id="471"/>
+			</groups>
+			<filteredStates/>
+			<ewarFilters/>
+		</profile>		
+		<profile name="npc">
+			<groups>
+				<group id="576"/>
+				<group id="552"/>
+				<group id="551"/>
+				<group id="575"/>
+				<group id="550"/>
+				<group id="554"/>
+				<group id="553"/>
+				<group id="578"/>
+				<group id="556"/>
+				<group id="555"/>
+				<group id="577"/>
+				<group id="557"/>
+				<group id="558"/>
+				<group id="559"/>
+				<group id="580"/>
+				<group id="560"/>
+				<group id="561"/>
+				<group id="579"/>
+				<group id="562"/>
+				<group id="563"/>
+				<group id="564"/>
+				<group id="582"/>
+				<group id="565"/>
+				<group id="566"/>
+				<group id="581"/>
+				<group id="567"/>
+				<group id="568"/>
+				<group id="569"/>
+				<group id="584"/>
+				<group id="570"/>
+				<group id="571"/>
+				<group id="583"/>
+				<group id="572"/>
+				<group id="573"/>
+				<group id="574"/>
+				<group id="593"/>
+				<group id="594"/>
+				<group id="595"/>
+				<group id="596"/>
+				<group id="597"/>
+				<group id="602"/>
+				<group id="603"/>
+				<group id="604"/>
+				<group id="605"/>
+				<group id="606"/>
+				<group id="611"/>
+				<group id="612"/>
+				<group id="613"/>
+				<group id="614"/>
+				<group id="615"/>
+				<group id="620"/>
+				<group id="621"/>
+				<group id="622"/>
+				<group id="623"/>
+				<group id="624"/>
+				<group id="629"/>
+				<group id="630"/>
+				<group id="631"/>
+				<group id="632"/>
+				<group id="633"/>
+				<group id="983"/>
+				<group id="959"/>
+				<group id="982"/>
+				<group id="985"/>
+				<group id="960"/>
+				<group id="984"/>
+				<group id="987"/>
+				<group id="961"/>
+				<group id="986"/>
+				<group id="793"/>
+				<group id="790"/>
+				<group id="794"/>
+				<group id="789"/>
+				<group id="795"/>
+				<group id="791"/>
+				<group id="796"/>
+				<group id="792"/>
+				<group id="797"/>
+				<group id="798"/>
+				<group id="799"/>
+				<group id="800"/>
+				<group id="755"/>
+				<group id="756"/>
+				<group id="757"/>
+				<group id="758"/>
+				<group id="759"/>
+				<group id="760"/>
+				<group id="761"/>
+				<group id="1174"/>
+				<group id="807"/>
+				<group id="808"/>
+				<group id="809"/>
+				<group id="810"/>
+				<group id="811"/>
+				<group id="812"/>
+				<group id="813"/>
+				<group id="814"/>
+				<group id="801"/>
+				<group id="802"/>
+				<group id="803"/>
+				<group id="804"/>
+				<group id="805"/>
+				<group id="806"/>
+				<group id="819"/>
+				<group id="820"/>
+				<group id="821"/>
+				<group id="847"/>
+				<group id="846"/>
+				<group id="845"/>
+				<group id="843"/>
+				<group id="844"/>
+				<group id="848"/>
+				<group id="849"/>
+				<group id="850"/>
+				<group id="851"/>
+				<group id="852"/>
+				<group id="865"/>
+				<group id="866"/>
+				<group id="867"/>
+				<group id="868"/>
+				<group id="861"/>
+				<group id="875"/>
+				<group id="1056"/>
+				<group id="1052"/>
+				<group id="1054"/>
+				<group id="1053"/>
+				<group id="1051"/>
+				<group id="1252"/>
+				<group id="1255"/>
+				<group id="1259"/>
+				<group id="1265"/>
+				<group id="1262"/>
+				<group id="288"/>
+				<group id="337"/>
+				<group id="523"/>
+				<group id="520"/>
+				<group id="522"/>
+				<group id="534"/>
+				<group id="527"/>
+				<group id="533"/>
+				<group id="816"/>
+				<group id="817"/>
+				<group id="818"/>
+				<group id="822"/>
+				<group id="823"/>
+				<group id="824"/>
+				<group id="825"/>
+				<group id="826"/>
+				<group id="827"/>
+				<group id="828"/>
+				<group id="829"/>
+				<group id="186"/>
+			</groups>
+			<filteredStates/>
+			<ewarFilters/>
+		</profile>
+		<profile name="drones">
+			<groups>
+				<group id="544"/>
+				<group id="100"/>
+				<group id="639"/>
+				<group id="1023"/>
+				<group id="549"/>
+				<group id="640"/>
+				<group id="101"/>
+				<group id="1159"/>
+				<group id="641"/>
+			</groups>
+			<filteredStates/>
+			<ewarFilters/>
+		</profile>
+	</eveOverview>

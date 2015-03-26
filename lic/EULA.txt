@@ -1,0 +1,25 @@
+IntuoSoft End-User License Agreement v1.0
+
+This License Agreement (this "Agreement") is a legal agreement between you and IntuoSoft for the accompanying software, associated media, printed materials, audiovisual content, and "online" or electronic documentation (collectively, the "Product"). By installing or using the Product, you agree to be bound by the terms of this Agreement. If you do not agree to all of the terms of this agreement, de-install all copies of the Product from your computer and return all Product materials to your distributor. 
+
+The product is protected by International Copyright Law. IntuoSoft retains the title to and ownership of the Product. You are licensed to use this Product on the following terms and conditions:
+
+LICENSE
+The licensee is defined as the individual or company utilizing the Product. IntuoSoft hereby grants the licensee a nonexclusive license authorizing the licensee to use the enclosed Product on one computer at a time. Please contact IntuoSoft if you require additional licenses. Use of this Product by more than one individual or by anyone other than the licensee terminates, without notification, this license and the right to use this product.
+
+YOU MAY NOT
+Distribute, rent, sub-license or otherwise make available to others the software or documentation or copies thereof, except as expressly permitted in this License without prior written consent from IntuoSoft. In the case of an authorized transfer, the transferee must agree to be bound by the terms and conditions of this License Agreement.
+
+RESTRICTIONS
+You may use this Product in your business as long as:
+The Product license must be registered with IntuoSoft in order to receive support or distribution rights.
+You may not remove any proprietary notices, labels, trademarks on the Product or documentation.
+You may not modify, de-compile, disassemble, reverse engineer or translate the Product.
+
+TERM
+You may terminate your License and this Agreement at anytime by destroying all copies of the Product and Product Documentation. They will also terminate automatically if you fail to comply with any term or condition in this Agreement. IntuoSoft may terminate this Agreement at any time without any notifications.
+
+LIMITED WARRANTY
+This Product and documentation are sold "as is" without any warranty as to their performance, merchantability or fitness for any particular purpose. The licensee assumes the entire risk as to the quality and performance of the Product. Buyer acknowledges that the Product may not be free from defects and may not satisfy all of buyer's needs. IntuoSoft or anyone else who has been involved in the creation, development, production, or delivery of this Product not liable for any direct, incidental or consequential damages, such as, but not limited to, loss of anticipated profits, benefits, use, or data resulting from the use of this Product. 
+
+Copyright (c) 2011-2013 IntuoSoft. All rights reserved. 
