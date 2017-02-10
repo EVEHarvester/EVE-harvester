@@ -20,3 +20,6 @@ Grunt modules:
 * Edit Gruntfile.js - > set paths in cfg variable, use version and revision from latest original file
 * Run from command line "grunt release-local"
 * Wait until compilation finish and use files from folder "_build/compiled"
+
+*Videos*
+https://www.youtube.com/user/eveharvestercom
